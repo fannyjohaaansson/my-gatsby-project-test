@@ -1,6 +1,6 @@
 laungage: node_js
 node_js:
-  - 15
+  - 14.15.5
 cache:
 directories:
   - node modules
